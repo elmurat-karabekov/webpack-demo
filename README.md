@@ -2,7 +2,7 @@
 
 - JS module bundler
 
-## Basic Config 
+## Avoid browser cashing
 
 ```js    
   output: {
