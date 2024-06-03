@@ -2,6 +2,9 @@
 
 - JS module bundler
 
+- Continue tutorial, after learning react and ts:
+https://youtu.be/acAH2_YT6bs?si=48T7dO12bZnTI_mV&t=4784
+
 ## Avoid browser cashing
 
 ```js    
