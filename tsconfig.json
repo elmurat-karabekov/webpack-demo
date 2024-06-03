@@ -9,6 +9,7 @@
     "allowJs": true,
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
-    "esModuleInterop": true // import cmj modules in compliance w/ es6 module spec
+    "esModuleInterop": true, // import cmj modules in compliance w/ es6 module spec
+    "plugins": [{ "name": "typescript-plugin-css-modules" }]
   }
 }

@@ -1,0 +1,17 @@
+.button {
+  background-color: red;
+
+  &:hover {
+    padding: 20px;
+  }
+}
+
+.header {
+  font-size: 15px;
+  background-color: blue;
+}
+
+.text {
+  font-size: 35px;
+  background-color: black;
+}
